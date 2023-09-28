@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josue Guido</h1>
 <h3 align="center">A passionate FullStack Junior developer from Costa Rica</h3>
 
-- 🌱 I’m currently learning **Taildwin and AWS**
+- 🌱 I’m currently learning **Tailwind and AWS**
 
 - 💬 Ask me about **React**
 
