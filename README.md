@@ -11,7 +11,32 @@
 
 - 📫 How to reach me **josuguido@gmail.com**
 
-- 📄 Conoce mis experiencias: [Hola a todos! Soy Josue Guido y estoy emocionado de compartir mi apasionante viaje como desarrollador junior fullstack autodidacta. A pesar de no contar con formación universitaria en programación, mi pasión por la tecnología me ha llevado a explorar este fascinante mundo de manera independiente, participando en diferentes bootcamps y cursos de alto nivel. Desde que descubrí mi interés por la programación, he invertido incontables horas en aprender y perfeccionar mis habilidades. Aquí les doy un vistazo rápido a mi experiencia: Aprendizaje autodidacta: Me sumerjo en cursos, tutoriales y libros en línea para dominar diversos lenguajes de programación y tecnologías web. Habilidades Técnicas: En la actualidad, me siento cómodo trabajando con HTML, CSS y JavaScript, y tengo experiencia en el desarrollo de aplicaciones web con React en el frontend, así como en Node.js con Express y PostgreSQL en el backend. Proyectos Personales: Consolido mi aprendizaje a través de la creación de proyectos personales, desde sitios web interactivos hasta aplicaciones móviles. Colaboración y Ambición: Aunque me identifico como autodidacta, valoro la colaboración y estoy entusiasmado por aprender de mis colegas más experimentados. Mi ambición es crecer en esta industria y asumir desafíos cada vez mayores. En resumen, mi trayectoria como Desarrollador Junior Fullstack autodidacta es un testimonio de mi dedicación y deseo de triunfar en el mundo del desarrollo web y de aplicaciones. Estoy entusiasmado con lo que depara el futuro y ansioso por aportar mi pasión y habilidades al mundo tecnológico.
+- 📄 Conoce mis experiencias: ¡Hola a todos! Soy Josue Guido y estoy emocionado de compartir mi apasionante viaje como desarrollador junior fullstack autodidacta. A pesar de no contar con formación universitaria en programación, mi pasión por la tecnología me ha llevado a explorar este fascinante mundo de manera independiente, participando en diferentes bootcamps y cursos de alto nivel.
+
+Desde que descubrí mi interés por la programación, he invertido incontables horas en aprender y perfeccionar mis habilidades. Aquí les doy un vistazo rápido a mi experiencia:
+
+Aprendizaje autodidacta:
+Me sumerjo en cursos, tutoriales y libros en línea para dominar diversos lenguajes de programación y tecnologías web.
+
+Habilidades Técnicas:
+En la actualidad, me siento cómodo trabajando con HTML, CSS y JavaScript, y tengo experiencia en el desarrollo de aplicaciones web con React en el frontend, así como en Node.js con Express y PostgreSQL en el backend.
+
+Herramientas y Tecnologías Adicionales:
+He integrado herramientas como Prettier para mantener un código limpio y organizado, Postman para facilitar el testing y documentación de APIs, Astro y Next.js para potenciar la eficiencia en el desarrollo web, Tailwind CSS para un diseño más eficiente y Jest para realizar pruebas unitarias.
+
+Profundización en el Ecosistema Tecnológico:
+Además, he explorado y trabajado con el DOM (Document Object Model) para manipular la estructura de mis aplicaciones web de manera dinámica.
+
+Enfoque en la Implementación y Escalabilidad:
+También, he incursionado en Kubernetes para gestionar y orquestar contenedores, permitiéndome implementar soluciones más robustas y escalables.
+
+Proyectos Personales:
+Consolido mi aprendizaje a través de la creación de proyectos personales, desde sitios web interactivos hasta aplicaciones móviles.
+
+Colaboración y Ambición:
+Aunque me identifico como autodidacta, valoro la colaboración y estoy entusiasmado por aprender de mis colegas más experimentados. Mi ambición es crecer en esta industria y asumir desafíos cada vez mayores.
+
+En resumen, mi trayectoria como Desarrollador Junior Fullstack autodidacta es un testimonio de mi dedicación y deseo de triunfar en el mundo del desarrollo web y de aplicaciones. Estoy entusiasmado con lo que depara el futuro y ansioso por aportar mi pasión y habilidades al mundo tecnológico.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
