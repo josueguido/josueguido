@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **josuguido@gmail.com**
 
-- 📄 Conoce mis experiencias: ¡Hola a todos! Soy Josue Guido y estoy emocionado de compartir mi apasionante viaje como desarrollador junior fullstack autodidacta. A pesar de no contar con formación universitaria en programación, mi pasión por la tecnología me ha llevado a explorar este fascinante mundo de manera independiente, participando en diferentes bootcamps y cursos de alto nivel.
+- 📄 Conoce mis experiencias: Josue Guido y estoy emocionado de compartir mi apasionante viaje como desarrollador junior fullstack autodidacta. A pesar de no contar con formación universitaria en programación, mi pasión por la tecnología me ha llevado a explorar este fascinante mundo de manera independiente, participando en diferentes bootcamps y cursos de alto nivel.
 
 Desde que descubrí mi interés por la programación, he invertido incontables horas en aprender y perfeccionar mis habilidades. Aquí les doy un vistazo rápido a mi experiencia:
 
@@ -19,7 +19,7 @@ Aprendizaje autodidacta:
 Me sumerjo en cursos, tutoriales y libros en línea para dominar diversos lenguajes de programación y tecnologías web.
 
 Habilidades Técnicas:
-En la actualidad, me siento cómodo trabajando con HTML, CSS y JavaScript, y tengo experiencia en el desarrollo de aplicaciones web con React en el frontend, así como en Node.js con Express y PostgreSQL en el backend.
+En la actualidad, trabajo con HTML, CSS y JavaScript, y tengo experiencia en el desarrollo de aplicaciones web con React en el frontend, así como en Node.js con Express y PostgreSQL en el backend.
 
 Herramientas y Tecnologías Adicionales:
 He integrado herramientas como Prettier para mantener un código limpio y organizado, Postman para facilitar el testing y documentación de APIs, Astro y Next.js para potenciar la eficiencia en el desarrollo web, Tailwind CSS para un diseño más eficiente y Jest para realizar pruebas unitarias.
