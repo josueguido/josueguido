@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Soy Josue Guido</h1>
-<h3 align="center">Apasionado Desarrollador Full Stack Junior de Costa Rica</h3>
+<h3 align="center">Desarrollador Full Stack Junior de Costa Rica</h3>
 
 - 🔭 I’m currently working on [Metas App](https://github.com/josueguido/react-proyecto)
 
-- 🌱 I’m currently learning **Kubernetes, GitHub Actions y AWS**
+- 🌱 I’m currently learning **Kubernetes, AWS**
 
-- 📝 I regularly write articles on [https://enchanting-toffee-5a4048.netlify.app/](https://enchanting-toffee-5a4048.netlify.app/)
+- 📝 I regularly write articles on []
 
 - 💬 Ask me about **React**
 
