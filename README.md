@@ -11,32 +11,30 @@
 
 - 📫 How to reach me **josuguido@gmail.com**
 
-- 📄 Conoce mis experiencias: Josue Guido y estoy emocionado de compartir mi apasionante viaje como desarrollador junior fullstack autodidacta. A pesar de no contar con formación universitaria en programación, mi pasión por la tecnología me ha llevado a explorar este fascinante mundo de manera independiente, participando en diferentes bootcamps y cursos de alto nivel.
+- 📄 Conoce mis experiencias: Apasionado por la tecnología y el desarrollo de software, me especializo en la creación de soluciones web escalables y de alto rendimiento. Mi enfoque combina una sólida base en desarrollo frontend y backend con una integración estratégica de tecnologías cloud.
 
-Desde que descubrí mi interés por la programación, he invertido incontables horas en aprender y perfeccionar mis habilidades. Aquí les doy un vistazo rápido a mi experiencia:
+🛠 Habilidades Técnicas
+Frontend:
+Angular, React, JavaScript, TypeScript
+HTML, CSS, Bootstrap, Tailwind CSS
+Optimización de UI/UX y diseño responsivo
 
-Aprendizaje autodidacta:
-Me sumerjo en cursos, tutoriales y libros en línea para dominar diversos lenguajes de programación y tecnologías web.
+Backend:
+Node.js con Express
+PostgreSQL, Aurora (AWS)
+Desarrollo y gestión de APIs con API Gateway
+Pruebas unitarias con Jest
 
-Habilidades Técnicas:
-En la actualidad, trabajo con HTML, CSS y JavaScript, y tengo experiencia en el desarrollo de aplicaciones web con React en el frontend, así como en Node.js con Express y PostgreSQL en el backend.
+Cloud & DevOps:
+AWS Lambda para arquitecturas serverless
+Amazon S3 para almacenamiento escalable
+Kubernetes para la orquestación de contenedores
+Infraestructura optimizada para aplicaciones de alto rendimiento
 
-Herramientas y Tecnologías Adicionales:
-He integrado herramientas como Prettier para mantener un código limpio y organizado, Postman para facilitar el testing y documentación de APIs, Astro y Next.js para potenciar la eficiencia en el desarrollo web, Tailwind CSS para un diseño más eficiente y Jest para realizar pruebas unitarias.
+Enfoque & Filosofía
+Soy un firme creyente en la mejora continua, la escalabilidad y la optimización del código. Me encanta colaborar en equipos de desarrollo, enfrentar desafíos técnicos y seguir aprendiendo nuevas tecnologías.
 
-Profundización en el Ecosistema Tecnológico:
-Además, he explorado y trabajado con el DOM (Document Object Model) para manipular la estructura de mis aplicaciones web de manera dinámica.
-
-Enfoque en la Implementación y Escalabilidad:
-También, he incursionado en Kubernetes para gestionar y orquestar contenedores, permitiéndome implementar soluciones más robustas y escalables.
-
-Proyectos Personales:
-Consolido mi aprendizaje a través de la creación de proyectos personales, desde sitios web interactivos hasta aplicaciones móviles.
-
-Colaboración y Ambición:
-Aunque me identifico como autodidacta, valoro la colaboración y estoy entusiasmado por aprender de mis colegas más experimentados. Mi ambición es crecer en esta industria y asumir desafíos cada vez mayores.
-
-En resumen, mi trayectoria como Desarrollador Fullstack autodidacta es un testimonio de mi dedicación y deseo de triunfar en el mundo del desarrollo web y de aplicaciones. Estoy entusiasmado con lo que depara el futuro y ansioso por aportar mi pasión y habilidades al mundo tecnológico.
+📌 Siempre en busca de nuevas oportunidades y retos en el mundo del desarrollo fullstack.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
