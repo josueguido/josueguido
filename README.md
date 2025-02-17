@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Josue Guido</h1>
-<h3 align="center">Desarrollador Full Stack Junior de Costa Rica</h3>
+<h3 align="center">Desarrollador Full Stack</h3>
 
-- 🔭 I’m currently working on [Metas App](https://github.com/josueguido/react-proyecto)
+- 🔭 I’m currently working on []
 
-- 🌱 I’m currently learning **Kubernetes, AWS**
+- 🌱 I’m currently learning **React Native, AWS**
 
 - 📝 I regularly write articles on []
 
@@ -36,7 +36,7 @@ Consolido mi aprendizaje a través de la creación de proyectos personales, desd
 Colaboración y Ambición:
 Aunque me identifico como autodidacta, valoro la colaboración y estoy entusiasmado por aprender de mis colegas más experimentados. Mi ambición es crecer en esta industria y asumir desafíos cada vez mayores.
 
-En resumen, mi trayectoria como Desarrollador Junior Fullstack autodidacta es un testimonio de mi dedicación y deseo de triunfar en el mundo del desarrollo web y de aplicaciones. Estoy entusiasmado con lo que depara el futuro y ansioso por aportar mi pasión y habilidades al mundo tecnológico.
+En resumen, mi trayectoria como Desarrollador Fullstack autodidacta es un testimonio de mi dedicación y deseo de triunfar en el mundo del desarrollo web y de aplicaciones. Estoy entusiasmado con lo que depara el futuro y ansioso por aportar mi pasión y habilidades al mundo tecnológico.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
