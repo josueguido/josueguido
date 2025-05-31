@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on []
 
-- 🌱 I’m currently learning **React Native, AWS**
+- 🌱 I’m currently learning **Goland, AWS**
 
 - 📝 I regularly write articles on []
 
