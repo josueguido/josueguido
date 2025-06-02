@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **josuguido@gmail.com**
 
-- 📄 Conoce mis experiencias:
+📄 Conoce mis experiencias:
 Apasionado por la tecnología y el desarrollo de software, me especializo en la creación de soluciones web escalables y de alto rendimiento. Mi enfoque combina una sólida base en desarrollo frontend y backend con una integración estratégica de tecnologías cloud.
 
 🛠 Habilidades Técnicas
