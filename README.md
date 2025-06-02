@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy Josue Guido</h1>
-<h3 align="center">Desarrollador Full Stack</h3>
+<h1 align="center">Hi 👋, I'm, Soy Josue Guido</h1>
+<h3 align="center">Software Engineer (Full Stack)</h3>
 
 - 🔭 I’m currently working on []
 
@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on []
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Backend**
 
 - 📫 How to reach me **josuguido@gmail.com**
 
