@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm, Soy Josue Guido</h1>
+<h1 align="center">Hi 👋, I'm, Josue Guido</h1>
 <h3 align="center">Software Engineer (Full Stack)</h3>
 
 - 🔭 I’m currently working on [PayScinc App]
