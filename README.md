@@ -3,37 +3,48 @@
 
 - 🔭 I’m currently working on [PayScinc App]
 
-- 🌱 I’m currently learning **Goland, AWS**
+- 🌱 I’m currently learning **Go, AWS**
 
 - 💬 Ask me about **Backend**
 
 - 📫 How to reach me **josuguido@gmail.com**
 
-📄 Conoce mis experiencias:
-Apasionado por la tecnología y el desarrollo de software, me especializo en la creación de soluciones web escalables y de alto rendimiento. Mi enfoque combina una sólida base en desarrollo frontend y backend con una integración estratégica de tecnologías cloud.
+📄 Learn more about my experiences:
+Passionate about technology and software development, I specialize in creating **scalable and high-performance web solutions**. My approach integrates a strong foundation in **frontend and backend development**, combined with a strategic application of **Cloud & DevOps** technologies.
 
-🛠 Habilidades Técnicas
-Frontend:
-Angular, React, JavaScript, TypeScript
-HTML, CSS, Bootstrap, Tailwind CSS
-Optimización de UI/UX y diseño responsivo
+## 🛠️ Technical Skills
 
-Backend:
-Node.js con Express
-PostgreSQL, Aurora (AWS)
-Desarrollo y gestión de APIs con API Gateway
-Pruebas unitarias con Jest
+### Frontend
+- Angular, React, JavaScript, TypeScript  
+- HTML, CSS, Bootstrap, Tailwind CSS  
+- UI/UX optimization and responsive design
 
-Cloud & DevOps:
-AWS Lambda para arquitecturas serverless
-Amazon S3 para almacenamiento escalable
-Kubernetes para la orquestación de contenedores
-Infraestructura optimizada para aplicaciones de alto rendimiento
+### Backend
+- Node.js with Express  
+- PostgreSQL, Aurora (AWS)  
+- API development and management with API Gateway  
+- Unit testing with Jest
 
-Enfoque & Filosofía
-Soy un firme creyente en la mejora continua, la escalabilidad y la optimización del código. Me encanta colaborar en equipos de desarrollo, enfrentar desafíos técnicos y seguir aprendiendo nuevas tecnologías.
+### Cloud & DevOps
+- AWS Lambda for serverless architectures  
+- Amazon S3 for scalable storage  
+- Kubernetes for container orchestration  
+- Optimized infrastructure for high-performance applications
 
-📌 Siempre en busca de nuevas oportunidades y retos en el mundo del desarrollo fullstack.
+---
+
+## 🎯 Approach & Philosophy
+
+I firmly believe in **continuous improvement**, **scalability**, and **code optimization**.  
+I enjoy collaborating on development teams, solving technical challenges, and continuously learning new technologies.
+
+---
+
+## 📌 Career Objective
+
+Always seeking **new opportunities and challenges** in the **Full Stack development** world, especially in environments that value technical quality, constant learning, and teamwork.
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
