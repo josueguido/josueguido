@@ -73,10 +73,11 @@ Always seeking **new opportunities and challenges** in the **Full Stack developm
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![npm](https://img.shields.io/npm/v/vite?color=cb3837&label=npm)
-![Vite](https://img.shields.io/badge/Vite-%233644b0.svg?logo=vite&logoColor=yellow)
-![Vitest](https://img.shields.io/badge/Vitest-%233644b0.svg?logo=vitest&logoColor=yellowgreen)
-![GitLab](https://img.shields.io/badge/GitLab-%23fc6d26.svg?logo=gitlab&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-%23ff5d01.svg?logo=astro&logoColor=white)
+![npm](https://img.shields.io/npm/v/vite?color=cb3837&label=npm&style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-%233644b0.svg?logo=vite&logoColor=yellow&style=for-the-badge)
+![Vitest](https://img.shields.io/badge/Vitest-%233644b0.svg?logo=vitest&logoColor=yellowgreen&style=for-the-badge)
+![GitLab](https://img.shields.io/badge/GitLab-%23fc6d26.svg?logo=gitlab&logoColor=white&style=for-the-badge)
+![Astro](https://img.shields.io/badge/Astro-%23ff5d01.svg?logo=astro&logoColor=white&style=for-the-badge)
+
 
 [![](https://visitcount.itsvg.in/api?id=josueguido&icon=0&color=0)](https://visitcount.itsvg.in)
