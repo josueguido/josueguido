@@ -20,7 +20,8 @@ Passionate about technology and software development, I specialize in creating *
 - UI/UX optimization and responsive design
 
 ### Backend
-- Node.js with Express  
+- Node.js with Express
+- NestJS
 - PostgreSQL, Aurora (AWS)  
 - API development and management with API Gateway  
 - Unit testing with Jest
@@ -28,7 +29,6 @@ Passionate about technology and software development, I specialize in creating *
 ### Cloud & DevOps
 - AWS Lambda for serverless architectures  
 - Amazon S3 for scalable storage  
-- Kubernetes for container orchestration  
 - Optimized infrastructure for high-performance applications
 
 ---
@@ -73,5 +73,10 @@ Always seeking **new opportunities and challenges** in the **Full Stack developm
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![npm](https://img.shields.io/npm/v/vite?color=cb3837&label=npm)
+![Vite](https://img.shields.io/badge/Vite-%233644b0.svg?logo=vite&logoColor=yellow)
+![Vitest](https://img.shields.io/badge/Vitest-%233644b0.svg?logo=vitest&logoColor=yellowgreen)
+![GitLab](https://img.shields.io/badge/GitLab-%23fc6d26.svg?logo=gitlab&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-%23ff5d01.svg?logo=astro&logoColor=white)
 
 [![](https://visitcount.itsvg.in/api?id=josueguido&icon=0&color=0)](https://visitcount.itsvg.in)
