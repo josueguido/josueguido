@@ -33,7 +33,7 @@ Passionate about technology and software development, I specialize in creating *
 - Terraform
 - Kubernetes
 
-  ### Monitoring & Observability
+### Monitoring & Observability
 - Grafana
 - Prometheus
 - ELK Stack
