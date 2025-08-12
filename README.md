@@ -29,7 +29,14 @@ Passionate about technology and software development, I specialize in creating *
 ### Cloud & DevOps
 - AWS Lambda for serverless architectures  
 - Amazon S3 for scalable storage  
-- Optimized infrastructure for high-performance applications
+- Docker
+- Terraform
+- Kubernetes
+
+  ### Monitoring & Observability
+- Grafana
+- Prometheus
+- ELK Stack
 
 ---
 
@@ -42,7 +49,7 @@ I enjoy collaborating on development teams, solving technical challenges, and co
 
 ## 📌 Career Objective
 
-Always seeking **new opportunities and challenges** in the **Full Stack development** world, especially in environments that value technical quality, constant learning, and teamwork.
+Always seeking **new opportunities and challenges** in the **Backend, Devops and Cloud Engineer** world, especially in environments that value technical quality, constant learning, and teamwork.
 
 ---
 
