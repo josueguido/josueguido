@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm, Josue Guido</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">DevOps - Cloud Engineer</h3>
 
 - 🔭 I’m currently working on TaskFlow App
 
-- 🌱 I’m currently learning **Go, AWS**
+- 🌱 I’m currently learning **Terraform, Go**
 
-- 💬 Ask me about **Backend**
+- 💬 Ask me about **DevOps - CloudOps**
 
-- 📫 How to reach me **josuguido@gmail.com**
+- 📫 How to reach me **josuedguido866@gmail.com**
 
 📄 Learn about my experiences:
-Passionate about technology and software development, I specialize in creating **scalable and high-performance web solutions**. My approach integrates a strong foundation in **frontend and backend development**, combined with a strategic application of **Cloud & DevOps** technologies.
+Passionate about technology and automation, I am fully focused on the DevOps and CloudOps landscape, designing scalable, reliable, and secure cloud infrastructures. My background in software development strengthens my current role, enabling me to implement automation, CI/CD, observability, containerization, and IaC practices to optimize delivery pipelines and cloud operations.
 
 ## 🛠️ Technical Skills
 
@@ -24,7 +24,6 @@ Passionate about technology and software development, I specialize in creating *
 - NestJS
 - PostgreSQL, Aurora (AWS)  
 - API development and management with API Gateway  
-- Unit testing with Jest
 
 ### Cloud & DevOps
 - AWS Lambda for serverless architectures  
@@ -32,11 +31,13 @@ Passionate about technology and software development, I specialize in creating *
 - Docker
 - Terraform
 - Kubernetes
+- Ansible
 
 ### Monitoring & Observability
 - Grafana
 - Prometheus
 - ELK Stack
+- cAdvisor 
 
 ---
 
@@ -49,7 +50,7 @@ I enjoy collaborating on development teams, solving technical challenges, and co
 
 ## 📌 Career Objective
 
-Always seeking **new opportunities and challenges** in the **Backend, Devops and Cloud Engineer** world, especially in environments that value technical quality, constant learning, and teamwork.
+Always seeking **new opportunities and challenges** in the **Devops and Cloud Engineer** world, especially in environments that value technical quality, constant learning, and teamwork.
 
 ---
 
