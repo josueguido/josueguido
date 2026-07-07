@@ -14,17 +14,6 @@ Passionate about technology and automation, I am fully focused on the DevOps and
 
 ## 🛠️ Technical Skills
 
-### Frontend
-- Angular, React, JavaScript, TypeScript  
-- HTML, CSS, Bootstrap, Tailwind CSS  
-- UI/UX optimization and responsive design
-
-### Backend
-- Node.js with Express
-- NestJS
-- PostgreSQL, Aurora (AWS)  
-- API development and management with API Gateway  
-
 ### Cloud & DevOps
 - AWS Lambda for serverless architectures  
 - Amazon S3 for scalable storage  
@@ -38,6 +27,17 @@ Passionate about technology and automation, I am fully focused on the DevOps and
 - Prometheus
 - ELK Stack
 - cAdvisor 
+
+### Backend
+- Node.js with Express
+- NestJS
+- PostgreSQL, Aurora (AWS)  
+- API development and management with API Gateway  
+
+### Frontend
+- Angular, React, JavaScript, TypeScript  
+- HTML, CSS, Bootstrap, Tailwind CSS  
+- UI/UX optimization and responsive design
 
 ---
 
