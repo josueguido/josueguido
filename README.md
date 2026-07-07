@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm, Josue Guido</h1>
 <h3 align="center">DevOps - Cloud Engineer</h3>
 
-- 🔭 I’m currently working on TaskFlow App
+- 🔭 [TaskFlow](https://github.com/josueguido/[taskflow-repo-name])** — a production-inspired DevOps portfolio project
 
 - 🌱 I’m currently learning **Terraform, Go**
 
-- 💬 Ask me about **DevOps - CloudOps**
+- 💬 Ask me about **DevOps, Cloud Engineering, AWS, Kubernetes, CI/CD, Observability**
 
 - 📫 How to reach me **josuedguido866@gmail.com**
 
