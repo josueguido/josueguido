@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm, Josue Guido</h1>
 <h3 align="center">DevOps - Cloud Engineer</h3>
 
-- 🔭 [TaskFlow](https://github.com/josueguido/[taskflow-repo-name])** — a production-inspired DevOps portfolio project
+- 🔭 I'm currently working on [TaskFlow](https://github.com/josueguido/[taskflow-repo-name])** — a production-inspired DevOps portfolio project
 
 - 🌱 I’m currently learning **Terraform, Go**
 
